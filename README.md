@@ -63,25 +63,13 @@
 
 ## 📌 Featured Projects
 
-### 🌍 **Travel Journal (React)**
-A small SPA built with components, props and a static dataset.  
-👉 *[Coming soon](#)*
-
-### 🎮 **RAWG Game Explorer**
-Search and explore games using the RAWG API — dynamic content and modern UI.  
-👉 *[Coming soon](#)*
-
-### 🥋 **BoxingFit Málaga Website**
-HTML/CSS project for my DIW course — animations, responsive layout, modern design.  
-👉 *[Coming soon](#)*
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Guirecam&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
