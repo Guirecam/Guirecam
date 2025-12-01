@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A0CA3&height=220&section=header&text=Guillermo%20Redondo&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hey, I'm Guillermo — FullStack Developer</h2>
