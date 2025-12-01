@@ -1,68 +1,101 @@
-<!-- Banner o título -->
-<h1 align="center">Hi, I'm <strong>TuNombre</strong> 👋</h1>
-<h3 align="center">Frontend Developer | Diseñador Web | Aprendiendo cada día ✨</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A0CA3&height=220&section=header&text=Guillermo%20Redondo&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<h2 align="center">👋 Hey, I'm Guillermo — FullStack Developer</h2>
 
-## 🌟 About Me
-
-Soy un desarrollador apasionado por crear interfaces bonitas, limpias y funcionales.
-Me encanta el diseño, las animaciones y convertir ideas en experiencias web reales.  
-
-- 🌱 Actualmente aprendiendo **HTML5, CSS3 y JavaScript**
-- 🎨 Me gusta trabajar con colores, tipografías y animaciones web
-- 🚀 Sueño con convertirme en un gran Frontend Developer
-- 😄 Pronombres: he/him
-
----
-
-## 🛠️ Tech Stack
-
-### Actualmente aprendiendo:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <strong>Front-End | React | UX/UI | E-commerce</strong><br>
+  Blending design & development to create clean, fast and modern web experiences.
 </p>
 
 ---
 
-## 🔥 Actualmente enfocado en:
+## 🚀 About Me
 
-- Construir interfaces web accesibles y modernas  
-- Aprender buenas prácticas de HTML y CSS  
-- Crear animaciones con CSS y layouts avanzados  
-- Dominar los fundamentos de JavaScript  
+- 💻 Graduated in **Web Application Development (DAW)** 
+- 🎨 Passionate about **Front-End, UI/UX** and clean interfaces  
+- 🌐 Experience with **WordPress**, **WooCommerce** and page builders  
+- ⚛️ Learning **React**, JavaScript, APIs & component-driven development  
+- 🎮 Gamer, creative mind, and tech enthusiast  
+- 📚 Always exploring new tools to improve my workflow
 
 ---
 
-## 📫 ¡Conectemos!
+## 🧠 Knowledge & Tools
 
+### 💻 Programming & Web Technologies
 <p>
-  <a href="https://github.com/TuUsuario">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" />
 </p>
+
+### 🧩 CMS, Builders & Web Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,figma,xd" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-orange?style=flat" />
+</p>
+
+### 🧰 Software & Productivity
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+### 🧾 ERP & Business Software
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Comerzzia-0056A3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cástor_Retail-0088CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decocloud-4C4C4C?style=for-the-badge&logoColor=white" />
+</p>
+
 
 ---
 
-## ✨ Frase favorita
+## 📌 Featured Projects
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+### 🌍 **Travel Journal (React)**
+A small SPA built with components, props and a static dataset.  
+👉 *[Coming soon](#)*
+
+### 🎮 **RAWG Game Explorer**
+Search and explore games using the RAWG API — dynamic content and modern UI.  
+👉 *[Coming soon](#)*
+
+### 🥋 **BoxingFit Málaga Website**
+HTML/CSS project for my DIW course — animations, responsive layout, modern design.  
+👉 *[Coming soon](#)*
 
 ---
 
 ## 📊 GitHub Stats
 
-*(Si todavía no tienes mucha actividad, igual se ve genial)*
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Objetivo para 2025
-Aprender JavaScript a fondo y comenzar a crear mis primeros proyectos reales 🚀
+## 🌐 Portfolio & Contact
 
+<p align="center">
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/🌍%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/guillermo-redondo-camacho/)"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,100:6C63FF&height=120&section=footer" />
+</p>
