@@ -3,45 +3,45 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuillermoRC%20&fontSize=80" />
 </p>
 
-<h2 align="center">👋 Hey, I'm Guille — FullStack Developer</h2>
+<h2 align="center">👋 Hola, soy Guille — FullStack Developer</h2>
 
 <p align="center">
-  <strong>Front-End | React | UX/UI | E-commerce</strong><br>
-  Blending design & development to create clean, fast and modern web experiences.
+  <strong>Front-End | UX/UI Entusiasta visual </strong><br>
+  Combinando diseño y desarrollo para crear experiencias web modernas, rápidas y limpias.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 💻 Graduated in **Web Application Development (DAW)** 
-- 🎨 Passionate about **Front-End, UI/UX** and clean interfaces  
-- 🌐 Experience with **WordPress**, **WooCommerce** and page builders  
-- ⚛️ Learning **React**, JavaScript, APIs & component-driven development  
-- 🎮 Gamer, creative mind, and tech enthusiast  
-- 📚 Always exploring new tools to improve my workflow
+- 💻 Titulado en **Desarrollo de Aplicaciones Web (DAW)**  
+- 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias  
+- 🌐 Experiencia con **HTML,CSS**, **Wordpress** y page builders  
+- ⚛️ En constante aprendizaje: **React**, JavaScript, APIs y desarrollo basado en componentes  
+- 🎮 Gamer, creativo y muy curioso tecnológicamente  
+- 📚 Siempre explorando nuevas herramientas para mejorar mis proyectos
 
 ---
 
-## 🧠 Knowledge & Tools
+## 🧠 Conocimientos y herramientas
 
-### 💻 Programming & Web Technologies
+### 💻 Programación y Tecnologías Web
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" />
 </p>
 
-### 🧩 CMS, Builders & Web Tools
+### 🧩 CMS, Constructores y Herramientas Web
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,webflow,figma,xd" />
 </p>
 
-### 🛠️ Development Tools
+### 🛠️ Herramientas de Desarrollo
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
-### 🧰 Software & Productivity
+### 🧰 Software & Productividad
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
-### 🧾 ERP & Business Software
+### 🧾 ERP y Software Empresarial
 <p>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Comerzzia-0056A3?style=for-the-badge&logoColor=white" />
@@ -60,9 +60,9 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Proyectos destacados
 
-<p>Coming soon...</p>
+<p>Muy pronto...</p>
 
 ---
 
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/🌍%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/guillermo-redondo-camacho]"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -87,5 +87,5 @@
 <!-- Footer -->
 
 <p align="center">
-  <sub>Built ☕ by <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
+  <sub>Construido con ☕ por <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
 </p>
