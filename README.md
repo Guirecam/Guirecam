@@ -59,18 +59,11 @@
 
 ---
 
-## 📌 Proyectos
-
-<p>Muy pronto...</p>
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Guirecam&theme=tokyonight&show_icons=true" />
-  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Guirecam&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Guirecam&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Guirecam&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
