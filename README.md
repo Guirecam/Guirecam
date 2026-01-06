@@ -3,27 +3,49 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuilleRC%20&fontSize=80" />
 </p>
 
-<h2 align="center">👋 Hola, soy Guille — FullStack Developer</h2>
-
 <p align="center">
   <strong>FullStack | UX/UI Entusiasta visual </strong><br>
   Combinando diseño y desarrollo para crear experiencias web modernas, rápidas y limpias.
 </p>
 
----
+<a href="https://github.com/guirecam"><img align="right" width ="full" src="https://komarev.com/ghpvc/?username=guirecam&style=for-the-badge&color=blue"></a>
 
-## 🚀 Sobre mí
+> [!CAUTION]
+> - 💻 Titulado en **Desarrollo de Aplicaciones Web (DAW)**  
 
-- 💻 Titulado en **Desarrollo de Aplicaciones Web (DAW)**  
-- 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias  
-- 🌐 Experiencia con **HTML,CSS**, **Wordpress** y page builders  
-- ⚛️ En constante aprendizaje: **React**, JavaScript, APIs y desarrollo basado en componentes  
-- 🎮 Gamer, creativo y muy curioso tecnológicamente  
-- 📚 Siempre explorando nuevas herramientas para mejorar mis proyectos
+<a href="https://github.com/guirecam">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550">
+</a>
 
----
+> [!NOTE]
+> - 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias 
+
+> [!IMPORTANT]
+> - 📚 Actualmente formándome en React
+
+> [!WARNING]  
+> - 🎮 Gamer, creativo y muy curioso
+
+> [!TIP]  
+> - 📗 Si estás interesad@ en colaborar — Me encantaría escucharte!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<br/>
+
+<a href="https://github.com/guirecam"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">    
+</a>
 
 ## 🧠 Conocimientos y herramientas
+
+<a href="https://github.com/guirecam">   
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc3MzE4NTMsIm5iZiI6MTc2NzczMTU1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA2VDIwMzIzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0YmYwZTQ4ZTE1NGJlOTIwNWYwNWQ0MDQ5NGE0NTI0MzU5ZTI2MzQ0Mzg3ZmYzMGZlZTE4NDlmODg5Yzg5OWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gs16opzU_-7jMRYZmf69iBgOzvLbNN03UgdajAY1ius" width="400">
+</a>
+
 
 ### 💻 Programación y Tecnologías Web
 <p>
@@ -57,26 +79,26 @@
   <img src="https://img.shields.io/badge/Decocloud-4C4C4C?style=for-the-badge&logoColor=white" />
 </p>
 
----
+<br/>
+
+<a href="https://github.com/guirecam"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">    
+</a>
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Guirecam&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Guirecam&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/guirecam">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+</a>
 
----
+![](https://github-readme-stats.vercel.app/api?username=Guirecam&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Guirecam&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Contacto
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Guirecam&theme=react-dark&custom_title=My%20activity&days=20)](https://github.com/Guirecam/github-readme-activity-graph)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-<!-- Footer -->
+<br/>
 
 <p align="center">
-  <sub>Construido con ☕ por <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
+  <sub>Construido con ☕ por <a href="https://github.com/Guirecam">GuilleODEV</a></sub><br>
 </p>
