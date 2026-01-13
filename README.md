@@ -104,13 +104,15 @@ Dashboard interactivo para visualizar y seguir el progreso de mis proyectos pers
 </p>
   </td>
     <td width="45%" valign="top" align="right">
-      <img
+      <a href="https://github.com/guilleodev/dashboard-progreso">
+        <img
         src="https://raw.githubusercontent.com/guilleodev/dashboard-progreso/main/preview.png"
           width="420"
           height="240"
           style="object-fit: cover;"
         alt="Dashboard de Progreso preview"
-      />
+        />
+      </a>
     </td>
   </tr>
   
@@ -128,13 +130,15 @@ Plantilla de portfolio desarrollada con Tailwind CSS, utilizando mis propios dat
 </p>
   </td>
   <td width="45%" valign="top" align="right">
-    <img
+    <a href="https://github.com/guilleodev/portfolio-tailwind">
+      <img
       src="https://raw.githubusercontent.com/guilleodev/portfolio-tailwind/main/capturaPlantillaPortfolioTailwind.png"
         width="420"
         height="240"
         style="object-fit: cover;"
       alt="Portfolio Tailwind preview"
-    />
+      />
+    </a>
   </td>
 </tr>
 
