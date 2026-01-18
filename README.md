@@ -33,15 +33,17 @@
 > - 📗 Si estás interesad@ en colaborar — Me encantaría escucharte!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://guilleodev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4CC9F0?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-<br/>
 
 <a href="https://github.com/guilleodev"> 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">    
 </a>
+
+<br/>
+
 
 ## 🧠 Conocimientos y herramientas
 
@@ -90,6 +92,38 @@
 ## 🖥️ Proyectos
 
 <table>
+
+<tr>
+  <td width="55%" valign="top">
+
+### 🌐 Mi Portfolio
+
+Mi portfolio web personal, diseñado para presentar de forma clara y visual
+mi experiencia, información y proyectos personales.
+
+Incluye secciones de experiencia, conocimientos, contacto, proyectos,
+dividiendo los mismos en desarrollo web y diseño web.
+
+**Tech:** HTML · Tailwind · CSS · JavaScript
+<p align="left">
+🌐 <a href="https://guilleodev.netlify.app">Live Demo</a>  
+📂 <a href="https://github.com/guilleodev/mi-portfolio">Repositorio</a>
+</p>
+  </td>
+
+  <td width="45%" valign="top" align="right">
+    <a href="https://guilleodev.netlify.app">
+      <img
+        src="https://raw.githubusercontent.com/guilleodev/mi-portfolio/main/assets/img/capturamiportfolio.png"
+        width="420"
+        height="240"
+        style="object-fit: cover;"
+        alt="Mi Portfolio preview"
+      />
+    </a>
+  </td>
+</tr>
+  
   <tr>
     <td width="55%" valign="top">
 
@@ -143,9 +177,6 @@ Plantilla de portfolio desarrollada con Tailwind CSS, utilizando mis propios dat
 </tr>
 
 </table>
-
-<br/>
-<p align="center">Portfolio personal próximamente...</p>
 
 <br/>
 
