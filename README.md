@@ -100,7 +100,37 @@
 <tr>
   <td width="55%" valign="top">
 
-### 🌐 Mi Portfolio
+### <img width="19" height="19" alt="image" src="https://raw.githubusercontent.com/guilleodev/steamprofile/main/assets/img/steamProfileLogo.PNG" />  Steam Profile
+
+
+Steam Profile es una aplicación web que permite buscar perfiles de Steam y visualizar información del usuario, como su estado en línea, SteamID, última conexión, país, nivel de Steam, número total de juegos, horas jugadas y lista de amigos.
+
+Además, la aplicación analiza la biblioteca del usuario para mostrar los juegos completados al 100%.
+
+**Tech:** HTML · Tailwind · CSS · JavaScript · Steam Web API · Netlify · i18n
+<p align="left">
+🌐 <a href="https://steamprofile.netlify.app">Live Demo</a>  
+📂 <a href="https://github.com/guilleodev/steamProfile">Repositorio</a>
+</p>
+  </td>
+
+  <td width="45%" valign="top" align="right">
+    <a href="https://steamprofile.netlify.app">
+      <img
+        src="https://raw.githubusercontent.com/guilleodev/steamprofile/main/assets/img/capturaSteamProfile2-es.png"
+        width="420"
+        height="240"
+        style="object-fit: cover;"
+        alt="Steam profile preview"
+      />
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td width="55%" valign="top">
+
+### <img width="15" height="20" alt="image" src="https://github.com/guilleodev/mi-portfolio/blob/main/assets/img/miIcono.png" />  Mi Portfolio
 
 Mi portfolio web personal, diseñado para presentar de forma clara y visual
 mi experiencia, información y proyectos personales.
