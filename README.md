@@ -161,6 +161,32 @@ dividiendo los mismos en desarrollo web y diseño web.
   <tr>
     <td width="55%" valign="top">
 
+### 🆕 Top AI Tools 2026
+
+Aplicación web basada en React que muestra el top de herramientas de IA de 2026. Los datos se almacenan en un archivo JSON y se representan dinámicamente a través de props utilizando el método .map() en componentes reutilizables.
+
+**Tech:** HTML · CSS · JavaScript · React
+<p align="left">
+🌐 <a href="https://topaitools2026.netlify.app">Live Demo</a>  
+📂 <a href="https://github.com/guilleodev/TopAITools2026">Repositorio</a>
+</p>
+  </td>
+    <td width="45%" valign="top" align="right">
+      <a href="https://github.com/guilleodev/TopAITools2026">
+        <img
+        src="https://raw.githubusercontent.com/guilleodev/TopAITools2026/main/src/assets/img/capturaTopAITools.png"
+          width="420"
+          height="240"
+          style="object-fit: cover;"
+        alt="TOP AI TOOLS 2026 preview"
+        />
+      </a>
+    </td>
+  </tr>
+  
+<tr>
+  <td width="55%" valign="top">
+
 ### 📊 Dashboard de Progreso
 
 Dashboard interactivo para visualizar y seguir el progreso de mis proyectos personales. Datos cargados dinámicamente desde **JSON** y mostrados en **tarjetas** con **barras de progreso** y milestones.
