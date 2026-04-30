@@ -100,6 +100,35 @@
 <tr>
   <td width="55%" valign="top">
 
+### <img width="30" height="25" alt="image" src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/brand/logo/01.png" /> Pokemon Ascenso DevLogs
+
+Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog) de mi videojuego inspirado en la saga Pokémon, donde se documenta de forma visual y progresiva la evolución del proyecto desde sus primeras versiones hasta estados más avanzados. 
+
+El sitio muestra capturas, cambios clave, mejoras de sistemas y avances técnicos, permitiendo ver cómo crece el juego a nivel de mecánicas, interfaz y estilo artístico.
+
+**Tech:** React · Vite · CSS · JavaScript · Netlify
+<p align="left">
+🌐 <a href="https://pokemonascensodevlogs.netlify.app">Live Demo</a>  
+📂 <a href="https://github.com/guilleodev/PokemonAscensoDevLogs">Repositorio</a>
+</p>
+  </td>
+
+  <td width="45%" valign="top" align="right">
+    <a href="https://steamprofile.netlify.app">
+      <img
+        src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/capturaPokemonAscensoDevLogs3.png"
+        width="420"
+        height="240"
+        style="object-fit: cover;"
+        alt="Pokemon Ascenso DevLogs preview"
+      />
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td width="55%" valign="top">
+
 ### <img width="19" height="19" alt="image" src="https://raw.githubusercontent.com/guilleodev/steamprofile/main/assets/img/steamProfileLogo.PNG" />  Steam Profile
 
 
