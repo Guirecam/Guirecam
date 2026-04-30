@@ -104,8 +104,6 @@
 
 Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog) de mi videojuego inspirado en la saga Pokémon, donde se documenta de forma visual y progresiva la evolución del proyecto desde sus primeras versiones hasta estados más avanzados. 
 
-El sitio muestra capturas, cambios clave, mejoras de sistemas y avances técnicos, permitiendo ver cómo crece el juego a nivel de mecánicas, interfaz y estilo artístico.
-
 **Tech:** React · Vite · CSS · JavaScript · Netlify
 <p align="left">
 🌐 <a href="https://pokemonascensodevlogs.netlify.app">Live Demo</a>  
@@ -114,7 +112,7 @@ El sitio muestra capturas, cambios clave, mejoras de sistemas y avances técnico
   </td>
 
   <td width="45%" valign="top" align="right">
-    <a href="https://steamprofile.netlify.app">
+    <a href="https://pokemonascensodevlogs.netlify.app">
       <img
         src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/capturaPokemonAscensoDevLogs3.png"
         width="420"
@@ -131,10 +129,7 @@ El sitio muestra capturas, cambios clave, mejoras de sistemas y avances técnico
 
 ### <img width="19" height="19" alt="image" src="https://raw.githubusercontent.com/guilleodev/steamprofile/main/assets/img/steamProfileLogo.PNG" />  Steam Profile
 
-
 Steam Profile es una aplicación web que permite buscar perfiles de Steam y visualizar información del usuario, como su estado en línea, SteamID, última conexión, país, nivel de Steam, número total de juegos, horas jugadas y lista de amigos.
-
-Además, la aplicación analiza la biblioteca del usuario para mostrar los juegos completados al 100%.
 
 **Tech:** HTML · Tailwind · CSS · JavaScript · Steam Web API · Netlify · i18n
 <p align="left">
