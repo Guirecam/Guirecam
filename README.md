@@ -14,7 +14,7 @@
 <a href="https://github.com/guilleodev"><img align="right" width ="full" src="https://komarev.com/ghpvc/?username=guilleodev&style=for-the-badge&color=blue"></a>
 
 > [!CAUTION]
-> - 💻 Titulado en **Desarrollo de Aplicaciones Web**  
+> - 💻 FullStack Developer Junior
 
 <a href="https://github.com/guilleodev">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
@@ -24,7 +24,7 @@
 > - 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias 
 
 > [!IMPORTANT]
-> - 📚 Actualmente formándome en React y Tailwind CSS
+> - 📚 Actualmente formándome en Node.js
 
 > [!WARNING]  
 > - 🎮 Gamer, creativo y muy curioso
@@ -57,7 +57,7 @@
 
 ### 💻 Programación y Tecnologías Web
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql" />
 </p>
 
 ### 🧩 CMS, Constructores y Herramientas Web
